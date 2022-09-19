@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">lab03</string>
+    <string name="clear_label">Clear</string>
+    <string name="clear_shortcut">Clear option</string>
+    <string name="size_label">Size</string>
+    <string name="size_shortcut">Size option</string>
+    <string name="setting_label">Setting</string>
+    <string name="settings_shortcut">Setting option</string>
+    <string name="exit_label">Exit</string>
+    <string name="exit_shortcut">Exit option</string>
+    <string name="message_caption">Message</string>
+    <string name="message_content">You Selected Clear</string>
+    <string name="close">Close</string>
+    <string name="exit_caption">Exit application</string>
+    <string name="exit_content">Would you like to exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_option">optionActivity</string>
+    <string name="forecolor">forecolor</string>
+    <string name="backcolor">backcolor</string>
+    <string-array name="color_name_array">
+        <item name="red">Red</item>
+        <item name="orange">Orange</item>
+        <item name ="yellow">Yellow</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+        <item name="indigo">Indigo</item>
+        <item name="violet">Violet</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>#FC0404</item>
+        <item>#ffa500</item>
+        <item>#ffff00</item>
+        <item>#00FF1D</item>
+        <item>#003AFF</item>
+        <item>#4b0082</item>
+        <item>#ee82ee</item>
+    </string-array>
+
+
+</resources>
